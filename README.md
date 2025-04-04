@@ -49,7 +49,7 @@ I enjoy turning complex challenges into clean, data-driven solutions.
 
 - **Languages**: Python, SQL, LaTeX  
 - **Tools**: Gurobi, OR-Tools, NumPy, Pandas, Scikit-Learn  
-- **Cloud**: AWS & Azure 
+- **Cloud**:  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"> & <img src="https://img.shields.io/badge/Azure%20DevOps-0D1117?style=for-the-badge&logo=azuredevops&logoColor=0078D7">
 - **Others**: Git, Jupyter Notebooks, Knime, 
 
 ---
