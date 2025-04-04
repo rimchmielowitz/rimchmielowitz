@@ -20,7 +20,7 @@
 <div align="center">
 
 📑 **Table of Contents**  
-[👩‍💻 About Me](#about-me) • [🚀 Current Projects](#current-projects) • [🛠 Skills](#skills) • [📚 Currently Learning](#currently-learning) • [:briefcase: Looking for...](#looking-for) • [✨ Fun Facts](#fun-facts) • [📬 Contact](#contact)
+[👩‍💻 About Me](#-about-me) • [🚀 Current Projects](#-current-projects) • [🛠 Skills](#-skills) • [📚 Currently Learning](#-currently-learning) • [:briefcase: Looking for...](#-looking-for) • [✨ Fun Facts](#-fun-facts) • [📬 Contact](#-contact)
 
 </div>
 
