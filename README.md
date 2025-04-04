@@ -8,7 +8,7 @@
 </p>
 <br>
 <p align="center">
-<img src="https://cdn.prod.website-files.com/6634a8f8dd9b2a63c9e6be83/66a1dee4fa421bd9e8951b18_1119476364-fg0702.jpeg">
+<img src="https://cdn.prod.website-files.com/6634a8f8dd9b2a63c9e6be83/66a1dee4fa421bd9e8951b18_1119476364-fg0702.jpeg" alt="My banner" width="350" />
 </p>
 <br>
   
@@ -16,14 +16,13 @@
 
 
 ---
-### Table of Contents
-- [About Me](#-about-me)
-- [Current Projects](#-current-projects)
-- [Skills](#-skills)
-- [Currently Learning](#-currently-learning)
-- [Fun Facts](#-fun-facts)
-- [Contact](#-contact)
 
+<div align="center">
+
+📑 **Table of Contents**  
+[👩‍💻 About Me](#about-me) • [🚀 Current Projects](#current-projects) • [🛠 Skills](#skills) • [📚 Currently Learning](#currently-learning) • [:briefcase: Looking for...](#looking-for) • [✨ Fun Facts](#fun-facts) • [📬 Contact](#contact)
+
+</div>
 
 ---
 
