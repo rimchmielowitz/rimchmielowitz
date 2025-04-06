@@ -47,10 +47,17 @@ I enjoy turning complex challenges into clean, data-driven solutions.
 
 ### 🛠 Skills
 
-- **Languages**: Python, SQL, LaTeX  
-- **Tools**: Gurobi, OR-Tools, NumPy, Pandas, Scikit-Learn  
-- **Cloud**:  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"> & <img src="https://img.shields.io/badge/Azure%20DevOps-0D1117?style=for-the-badge&logo=azuredevops&logoColor=0078D7">
-- **Others**: Git, Jupyter Notebooks, Knime, 
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+  
+- **Tools**: ![Gurobi](https://img.shields.io/badge/Gurobi-ED1C24?style=for-the-badge)
+ ![OR-Tools](https://img.shields.io/badge/Google%20OR--Tools-4285F4?style=for-the-badge&logo=google&logoColor=white)
+ ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+ ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+- **Cloud**:  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  
+- **Others**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![KNIME](https://img.shields.io/badge/KNIME-FFCC00?style=for-the-badge&logo=data%20camp&logoColor=black)
 
 ---
 ### 📚 Currently Learning
