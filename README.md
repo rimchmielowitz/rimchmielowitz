@@ -41,7 +41,7 @@ I enjoy turning complex challenges into clean, data-driven solutions.
   Developing an optimization model based on the **knapsack problem** to allocate limited transport capacity across a fixed line network. The model aims to balance cost efficiency and service quality under dynamic demand.
 
 - 💰 **Dynamic Pricing Model**  
-  Translating business constraints into a mathematical optimization model for pricing decisions. Focus on model formulation, constraint logic, and solver performance – using open-source tools and custom heuristics.
+  Translating business constraints into a mathematical optimization model for pricing decisions. Focus on model formulation, constraint logic, and solver performance – using open-source tools and custom heuristics. Find [here](https://github.com/rimchmielowitz/Pricing) the MILP that combines matching-, routing-, compensation- and pricing decisions for a platfrom connecting crowdsourced driver with customers.
 
 ---
 
